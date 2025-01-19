@@ -35,3 +35,16 @@ Position: (Min 0, Max 200)
 Radius: (Min 0, Max 200)
 Stretch: (Min -20, Max 20)
 Direction: [Horizontal/Vertical]
+
+Insect Vision
+Columns: (Min 0, Max 200)
+Rows: (Min 0, Max 200)
+Direction (Min 0, Max 360)
+Amount: (Min -50, Max 50)
+Method: [Clamp/Tile/Stretch]
+Blur: (Min 0, Macx 50)
+
+Tile Resample
+Columns: (Min 1, Max 16)
+Rows: (Min 1, Max 16)
+Method: [Resample/Stretch/Reflect]
