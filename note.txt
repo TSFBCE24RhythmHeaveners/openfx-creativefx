@@ -48,3 +48,15 @@ Tile Resample
 Columns: (Min 1, Max 16)
 Rows: (Min 1, Max 16)
 Method: [Resample/Stretch/Reflect]
+
+Chromatic Abberation
+Red X: (Min -100, Max 100)
+Red Y: (Min -100, Max 100)
+Red Z: (Min -100, Max 100)
+Green X: (Min -100, Max 100)
+Green Y: (Min -100, Max 100)
+Green Z: (Min -100, Max 100)
+Blue X: (Min -100, Max 100)
+Blue Y: (Min -100, Max 100)
+Blue Z: (Min -100, Max 100)
+Method: [Clamp/Tile/Stretch]
