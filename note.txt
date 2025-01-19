@@ -1,0 +1,37 @@
+effects we would make for this plugin (collaborators: boundless beta)
+
+
+
+Color Adjustment
+Hue: (Min 0, Max 360)
+Fine Hue: (Min -60, Max 60)
+Saturation: (Min 0, Max 200)
+Lightness: (Min 0, Max 200)
+Gamma: (Min 0, Max 200)
+Contrast: (Min 0, Max 200)
+Vibrance: (Min 0 Max 200)
+Temperature: (Min -100, Max 100)
+
+Color Tint
+Darks Red: (Min 0, Max 255)
+Darks Green: (Min 0, Max 255)
+Darks Blue: (Min 0, Max 255)
+Lights Red: (Min 0, Max 255)
+Lights Green: (Min 0, Max 255)
+Lights Blue: (Min 0, Max 255)
+Intensity: (Min 0, Max 100)
+Vibrance: (Min 0, Max 100)
+
+Warp Waves
+Peaks: (Min 1, Max 40)
+Amplitude: (Min -100, Max 100)
+Speed: (Min -100, Max 100)
+Offset: (Min 0, Max 100)
+Direction: [Horizontal/Vertical/Together]
+Method: [Clamp/Tile/Stretch]
+
+Warp Cylinder
+Position: (Min 0, Max 200)
+Radius: (Min 0, Max 200)
+Stretch: (Min -20, Max 20)
+Direction: [Horizontal/Vertical]
