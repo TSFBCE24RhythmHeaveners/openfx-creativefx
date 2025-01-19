@@ -60,3 +60,9 @@ Blue X: (Min -100, Max 100)
 Blue Y: (Min -100, Max 100)
 Blue Z: (Min -100, Max 100)
 Method: [Clamp/Tile/Stretch]
+
+Bulge
+Radius: (Min 1, Max 100)
+Amount: (Min -100, Max 100)
+X Position: (Min 0, Max 100)
+Y Position: (Min 0, Max 100)
